@@ -3,7 +3,7 @@ package main;
 public class mypro {
     public static void main(String[] args) {
         teststack(new MyArray(10));
-
+        teststack(new MyList());
     }
     public static void teststack(stack stk){
         stk.push(12);
