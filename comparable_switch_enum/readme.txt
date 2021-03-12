@@ -1,3 +1,0 @@
-comparable
-switch
-enum
