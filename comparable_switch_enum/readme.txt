@@ -1,3 +1,3 @@
-comparator
+comparable
 switch
 enum
